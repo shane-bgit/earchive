@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DMS.Api</name>
+    </assembly>
+    <members>
+        <member name="M:DMS.Api.Controllers.BucketController.CreateS3Bucket(System.String)">
+            <summary>
+            Create new bucket in S3
+            </summary>
+            <param name="bucketName">The name of the bucket</param>
+            <returns>Bucket response</returns>
+        </member>
+    </members>
+</doc>

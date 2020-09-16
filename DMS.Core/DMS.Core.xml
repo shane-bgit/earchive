@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DMS.Core</name>
+    </assembly>
+    <members>
+        <member name="P:DMS.Core.Communication.Bucket.CreateBucketResponse.RequestId">
+            <summary>
+             ID that uniquely identifies a request. Amazon keeps track of request IDs. 
+             If you have a question about a request, include the request ID in your corresopndence.
+            </summary>
+        </member>
+        <member name="P:DMS.Core.Communication.Bucket.CreateBucketResponse.BucketName">
+            <summary>
+            Name of the Bucket created.
+            </summary>
+        </member>
+    </members>
+</doc>
